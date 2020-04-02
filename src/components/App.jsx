@@ -1,9 +1,7 @@
 import React from "react";
 import Card from "./Card"
 import contacts from "../contacts";
-console.log(contacts);
-
-
+// import Details from "../Details"
 
 function App() {
   return (
